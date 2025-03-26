@@ -26,8 +26,11 @@ The **Mobile Sales Dashboard** is an interactive Power BI report designed to tra
 
 ## 📂 Project Structure  
 /Mobile-Sales-Dashboard │-- 📊 Mobile Sales Dashboard.pbix # Power BI report
+
 │-- 📄 README.md # Project documentation
-│-- 📁 Data/ # Raw sales data (if included)
+
+│-- 📁 mobile sales data. xlsx / # Raw sales data 
+
 │-- 📁 Images/ # Dashboard screenshots
 
 
@@ -44,3 +47,5 @@ The **Mobile Sales Dashboard** is an interactive Power BI report designed to tra
 
    ---
  ##  📸 Screenshots
+
+    ![image alt](https://github.com/reyansh2002/mobile_sales_dasboard-/blob/main/dashboard)
