@@ -46,6 +46,6 @@ The **Mobile Sales Dashboard** is an interactive Power BI report designed to tra
 4. Explore the dashboard using interactive filters and visuals.
 
    ---
- ##  📸 Screenshots
+ ##  📸 Dashboard
 
-    ![image alt](https://github.com/reyansh2002/mobile_sales_dasboard-/blob/main/dashboard.png)
+   ![image alt](https://github.com/reyansh2002/mobile_sales_dasboard-/blob/main/dashboard.png)
